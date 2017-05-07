@@ -6,3 +6,4 @@ thumbnail: /images/uploads/hugo-netlify-cms.jpg
 rating: '5'
 ---
 Cool
+
