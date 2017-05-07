@@ -6,10 +6,19 @@
     <description>Recent content on johns-garage13.de</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
-    <lastBuildDate>Mon, 08 May 2017 00:27:14 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 07 May 2017 22:56:03 +0000</lastBuildDate>
     
 	<atom:link href="http://www.johns-garage13.de/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>CMS funktioniert endlich!</title>
+      <link>http://www.johns-garage13.de/post/2017-05-08-cms-funktioniert-endlich-/</link>
+      <pubDate>Sun, 07 May 2017 22:56:03 +0000</pubDate>
+      
+      <guid>http://www.johns-garage13.de/post/2017-05-08-cms-funktioniert-endlich-/</guid>
+      <description>Cool</description>
+    </item>
     
     <item>
       <title>github online</title>
