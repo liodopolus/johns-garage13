@@ -2,7 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://www.test-johns-garage13.de/archives/</loc>
+    <lastmod>2017-05-07T20:29:36+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.test-johns-garage13.de/post/welcome/</loc>
+    <lastmod>2017-05-07T14:17:33+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.test-johns-garage13.de/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.test-johns-garage13.de/post/</loc>
+    <lastmod>2017-05-07T14:17:33+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.test-johns-garage13.de/series/</loc>
     <priority>0</priority>
   </url>
   
@@ -13,6 +34,7 @@
   
   <url>
     <loc>http://www.test-johns-garage13.de/</loc>
+    <lastmod>2017-05-07T20:29:36+02:00</lastmod>
     <priority>0</priority>
   </url>
   
