@@ -1,0 +1,42 @@
+baseURL = "http://www.test-johns-garage13.de/"
+
+languageCode = "de-de"
+
+title = "johns-garage13.de"
+
+#theme = "hugo_theme_robus"
+theme = "hugo-fabric"
+
+#-------------------------
+# hugo-fabric settings see http://themes.gohugo.io/hugo-fabric/
+[params]
+  author = "john"
+  [params.theme]
+    subtitle = "built to perform"
+    post_type = "page" # For archive
+    archive_post_type = "archives"
+
+    # According to https://discuss.gohugo.io/t/how-to-access-the-top-level-rsslink-from-a-post/2044, we have to set this ourself
+    site_rsslink = "atom.xml"
+
+    # social account
+    #github_user = "wd"
+    #twitter_user = "wd"
+    disqus_shortname = "john"
+
+    # post sharing
+    facebook_like = true
+    twitter_tweet_button = false
+    google_plus_one = false
+    google_plus_one_size = "midum"
+    addthis_profile_id = "john"
+
+#-------------------------
+# Taxonomies settings
+[taxonomies]
+tag = "tags"
+category = "categories"
+series = "series"
+
+
+
