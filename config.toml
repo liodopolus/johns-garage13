@@ -2,9 +2,9 @@ baseURL = "http://www.johns-garage13.de/"
 
 languageCode = "de-de"
 
-title = "johns-garage13.de"
+title = "johns_garage13"
 
-#theme = "hugo_theme_robus"
+#theme = "hugo_theme_robust"
 theme = "hugo-fabric"
 
 #-------------------------
