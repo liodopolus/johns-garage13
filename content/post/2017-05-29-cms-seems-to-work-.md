@@ -6,3 +6,4 @@ thumbnail: /images/uploads/hugo-netlify-cms2.jpg
 image: /images/uploads/hugo-netlify-cms2.jpg
 ---
 CMS seems to work.
+
