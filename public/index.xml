@@ -6,10 +6,19 @@
     <description>Recent content on johns_garage13</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
-    <lastBuildDate>Sun, 28 May 2017 23:12:11 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 06 Jun 2017 21:49:40 +0200</lastBuildDate>
     
 	<atom:link href="http://www.johns-garage13.de/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>about</title>
+      <link>http://www.johns-garage13.de/about/</link>
+      <pubDate>Tue, 06 Jun 2017 21:49:40 +0200</pubDate>
+      
+      <guid>http://www.johns-garage13.de/about/</guid>
+      <description>Willkommen auf Johns-Garage13! +&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;-+</description>
+    </item>
     
     <item>
       <title>design geändert</title>
