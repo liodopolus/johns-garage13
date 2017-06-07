@@ -2,15 +2,14 @@ baseURL = "https://www.johns-garage13.de/"
 
 languageCode = "de-de"
 
-title = "johns_garage13"
+title = "johns-garage13"
 
-#theme = "hugo_theme_robust"
 theme = "hugo-fabric"
 
 #-------------------------
 # hugo-fabric settings see http://themes.gohugo.io/hugo-fabric/
 [params]
-  author = "john"
+  author = "John-Philip Gueinzius"
   [params.theme]
     subtitle = "built to perform"
     post_type = "page" # For archive
