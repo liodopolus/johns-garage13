@@ -1,13 +1,13 @@
 baseURL = "https://www.johns-garage13.de/"
-
 languageCode = "de-de"
-
 title = "johns-garage13"
-
 theme = "hugo-fabric"
+DefaultContentLanguage = "de"
 
 #-------------------------
+
 # hugo-fabric settings see http://themes.gohugo.io/hugo-fabric/
+
 [params]
   author = "John-Philip Gueinzius"
   [params.theme]
@@ -31,6 +31,7 @@ theme = "hugo-fabric"
     addthis_profile_id = "john"
 
 #-------------------------
+
 # Taxonomies settings
 [taxonomies]
 tag = "tags"
