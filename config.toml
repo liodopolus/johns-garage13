@@ -3,7 +3,7 @@ languageCode = "de-de"
 title = "johns-garage13"
 theme = "hugo-fabric"
 DefaultContentLanguage = "de"
- 
+
 #-------------------------
 
 # hugo-fabric settings see http://themes.gohugo.io/hugo-fabric/
@@ -37,6 +37,3 @@ DefaultContentLanguage = "de"
 tag = "tags"
 category = "categories"
 series = "series"
-
-
-
