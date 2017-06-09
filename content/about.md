@@ -1,6 +1,6 @@
 +++
 date = "2017-06-06T21:49:40+02:00"
-title = "about"
+title = "About"
 +++
 
 Willkommen auf Johns-Garage13!
