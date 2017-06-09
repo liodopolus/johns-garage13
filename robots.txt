@@ -1,0 +1,5 @@
+# robots.txt hugo zu https://www.johns-garage13.de
+
+User-agent: *
+Disallow: /
+Allow: /index.*
